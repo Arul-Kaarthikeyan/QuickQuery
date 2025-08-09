@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "RightClickGPT",
+  "description": "Right-click to ask OpenAI about selected text or images.",
+  "version": "1.0",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons":{
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
