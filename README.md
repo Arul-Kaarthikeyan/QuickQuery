@@ -1,7 +1,7 @@
 
-# RightClickGPT
+# QuickQuery 
 
-RightClickGPT is a Chrome extension that allows you to quickly ask OpenAI about selected text or images using the right-click context menu.
+QuickQuery is a Chrome extension that allows you to quickly ask OpenAI about selected text or images using the right-click context menu.
 
 
 ## Features
