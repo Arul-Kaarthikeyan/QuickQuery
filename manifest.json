@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "RightClickGPT",
+  "name": "QuickQuery",
   "description": "Right-click to ask OpenAI about selected text or images.",
   "version": "1.0",
   "permissions": ["contextMenus", "tabs"],
